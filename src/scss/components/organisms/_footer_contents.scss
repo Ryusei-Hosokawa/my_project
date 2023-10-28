@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+@use "../../utility/index" as *;
+@use "../atoms/_index.scss" as atom;
+
+// 通常コンテンツサブタイトルここから //
+@mixin footer_contents() {
+    .footer__contents {
+        
+    }
+}
+// 通常コンテンツサブタイトルここまで //
